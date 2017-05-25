@@ -38,4 +38,4 @@ test-suite haskell-lesson-test
 
 source-repository head
   type:     git
-  location: https://github.com/githubuser/haskell-lesson
+  location: https://github.com/kamataryo/haskell-lesson
